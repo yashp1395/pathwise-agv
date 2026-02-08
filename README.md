@@ -33,7 +33,7 @@ A comprehensive **Automated Guided Vehicle (AGV) scheduling and simulation syste
 - **System Event Logging**
 
 <p align="center">
-  <img src="https://github.com/yashp1395/pathwise-agv/blob/main/flowchart.jpg" 
+  <img src="flowchart.jpg" 
        alt="Header Image" 
        width="1500" 
        height="5000">
